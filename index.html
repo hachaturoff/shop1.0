@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="./css/style.css">
+   <link rel="icon" href="./icons/pioneer-dj.png">
+   <title>Pioneer DJ</title>
+</head>
+<body>
+   <header class="header">
+      <div class="header_wrapper container">
+         <div class="logo">
+            <a href="#"><img src="./icons/pioneer-dj-logo-white.png" alt="logo"></a>
+         </div>
+         <div class="menu">
+            <div class="menuList">
+               <div><a href="#">Home</a></div>
+               <div><a href="#">Products</a></div>
+               <div><a href="#" id="categories">Categories <div id="tringle">▲</div></a>
+                  <div class="subMenu">
+                     <div class="subItem">All</div>
+                     <div class="subItem">Mixers</div>
+                     <div class="subItem">Players</div>
+                     <div class="subItem">Controllers</div>
+                     <div class="subItem">Effectors</div>
+                     <div class="subItem">Headphones</div>
+                     <div class="subItem">Speakers</div>
+                  </div>
+               </div>
+               <div><a href="#" id="regLink">Registration</a></div>
+               <div><a href="#" id="autorLink">Authorization</a></div>
+               <div><a href="#" id="currentUser"></a></div>
+               <div><a href="#" id="exit">Exit</a></div>
+            </div>
+         </div>
+         <div class="cart">
+            <div class="cart_wrapper">
+               <div class="cartContent">
+                  <a href="#"><img src="./icons/shopping-cart.png" alt="cart"></a><span class="cartCounter"></span>
+               </div>
+            </div>
+         </div>
+      </div>
+   </header>
+   <div class="main">
+      <div class="main__wrapper container">
+
+      </div>
+   </div>
+
+   <footer class="footer">
+      <div class="footer__wrapper container">
+         <img src="./icons/facebook.png" alt="facebook">
+         <img src="./icons/instagram.png" alt="instagram">
+         <img src="./icons/telegram.png" alt="telegram">
+         <img src="./icons/twitter.png" alt="twitter">
+         <img src="./icons/youtube.png" alt="youtube">
+      </div>
+   </footer>
+   <div class="popUpCart close" id="pop">
+      <div class="popUp__wrapper container">
+         <div class="popUpWindow">
+            <div class="popUpContent">
+
+            </div>
+            <div class="popUpBtn">
+               <button class="cartOrder">order</button>
+               <span class="cartTotal"></span>
+               <button class="cartClose">Close</button>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="registration close" id="reg">
+      <div class="reg__wrapper container">
+            <form action="#" class="regContent">
+               <p class="regTitle">Registration</p>
+               <div class="regLogin">
+                  <div class="regUnique error">This login is already taken</div>
+                  <input id="regLogin" name="regLogin" type="text" placeholder="write your login" required>
+               </div>
+               <div class="regPassword">
+                  <div class="regLength error">Password suppose to be 8 or more symbols</div>
+                  <input id="regPassword" name="regPassword" type="password" placeholder="write your password" required>
+               </div>
+               <div class="regPasswordAgain">
+                  <div class="regAgain error">Passwords didn't match</div>
+                  <input id="regPasswordAgain" name="regPasswordAgain" type="password" placeholder="repeat your password" required>
+               </div>
+               <div class="regButtons">
+                  <button type="submit" id="regSave">Save</button>
+                  <button type="button" id="regClose">Close</button>
+               </div>
+            </form>
+      </div>
+   </div>
+   <div class="authorization close" id="aut">
+      <div class="aut__wrapper container">
+            <form action="#" class="autContent">
+               <p class="autTitle">authorization</p>
+               <div class="autLogin">
+                  <div class="autLoginConfrim error">Wrong login</div>
+                  <input id="autLogin" name="autLogin" type="text" placeholder="write your login" required>
+               </div>
+               <div class="autPassword">
+                  <div class="autPasswordConfrim error">Wrong password</div>
+                  <input id="autPassword" name="autPassword" type="password" placeholder="write your password" required>
+               </div>
+               <div class="autButtons">
+                  <button type="submit" id="autSend">Send</button>
+                  <button type="button" id="autClose">Close</button>
+               </div>
+            </form>
+      </div>
+   </div>
+   <script src="./js/script.js"></script>
+</body>
+</html>
