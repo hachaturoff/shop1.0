@@ -1,0 +1,309 @@
+{
+  "productsArr": [
+    {
+      "id": "el1",
+      "category": "Mixers",
+      "name": "DJM-A9",
+      "price": 10180,
+      "img": "https://i.ibb.co/1JPQxCc/DJM-A9-cgi-top-pc.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el2",
+      "category": "Mixers",
+      "name": "DJM-TOUR1",
+      "price": 9600,
+      "img": "https://i.ibb.co/vsdwM3f/djm-tour1-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el3",
+      "category": "Mixers",
+      "name": "DJM-S9",
+      "price": 5400,
+      "img": "https://i.ibb.co/chDbb0S/djm-s9-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el4",
+      "category": "Players",
+      "name": "XDJ-1000MK2",
+      "price": 8090,
+      "img": "https://i.ibb.co/KWFkqTd/xdj-1000mk2-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el5",
+      "category": "Players",
+      "name": "CDJ-TOUR1",
+      "price": 9500,
+      "img": "https://i.ibb.co/zJjppHC/cdj-tour1-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el6",
+      "category": "Players",
+      "name": "CDJ-350",
+      "price": 2400,
+      "img": "https://i.ibb.co/F0Kjmq0/cdj-350-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el7",
+      "category": "Controllers",
+      "name": "DDJ-FLX10",
+      "price": 1800,
+      "img": "https://i.ibb.co/k9md9D6/pc-cgi-top.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el8",
+      "category": "Controllers",
+      "name": "DDJ-REV1",
+      "price": 1340,
+      "img": "https://i.ibb.co/7tPtCWC/ddj-rev1-prm-top-1792x1316-pc.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el9",
+      "category": "Controllers",
+      "name": "DDJ-FLX6-GT",
+      "price": 1730,
+      "img": "https://i.ibb.co/b7pbRV5/pc-cgi-top-6.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el10",
+      "category": "Effectors",
+      "name": "DJS-1000",
+      "price": 2680,
+      "img": "https://i.ibb.co/vsG2RBY/djs-1000-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el11",
+      "category": "Effectors",
+      "name": "TORAIZ AS-1",
+      "price": 1670,
+      "img": "https://i.ibb.co/9VwWkBB/toraiz-as-1-main-n.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el12",
+      "category": "Effectors",
+      "name": "RMX-500",
+      "price": 1290,
+      "img": "https://i.ibb.co/RQJT0P7/rmx-500-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el13",
+      "category": "Headphones",
+      "name": "HDJ-X10 C",
+      "price": 713,
+      "img": "https://i.ibb.co/2yZmq0T/hdj-x10c-hero.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el14",
+      "category": "Headphones",
+      "name": "HRM-6",
+      "price": 715,
+      "img": "https://i.ibb.co/K99tnyg/hrm-6-main.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el15",
+      "category": "Headphones",
+      "name": "HDJ-CX",
+      "price": 677,
+      "img": "https://i.ibb.co/Ytpnz2b/pc-cgi-angle.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el16",
+      "category": "Speakers",
+      "name": "VM-80",
+      "price": 1080,
+      "img": "https://i.ibb.co/6mvN3Zt/vm-80-prm-angle-pc.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el17",
+      "category": "Speakers",
+      "name": "XPRS102",
+      "price": 2460,
+      "img": "https://i.ibb.co/n3mpcWn/XPRS2-F10-angle-221124.png",
+      "disabled": "false"
+    },
+    {
+      "id": "el18",
+      "category": "Speakers",
+      "name": "XPRS1152S",
+      "price": 5240,
+      "img": "https://i.ibb.co/kDBmw6Q/XPRS2-S15-angle-221124b.png",
+      "disabled": "false"
+    }
+  ],
+  "users": [
+    {
+      "login": "login",
+      "password": "password"
+    },
+    {
+      "id": "Дмитрий",
+      "login": "Дмитрий",
+      "password": "ДмитрийДмитрий"
+    },
+    {
+      "id": "Анна Ведьгун",
+      "login": "Анна Ведьгун",
+      "password": "Анна ВедьгунАнна Ведьгун"
+    },
+    {
+      "id": "123456789",
+      "login": "123456789",
+      "password": "123456789"
+    },
+    {
+      "id": "1234567890",
+      "login": "1234567890",
+      "password": "1234567890"
+    },
+    {
+      "id": "wwwwwwwwwwrrrrr",
+      "login": "wwwwwwwwwwrrrrr",
+      "password": "wwwwwwwwwwrrrrr"
+    },
+    {
+      "id": "dmitryu",
+      "login": "dmitryu",
+      "password": "dmitryudmitryu"
+    },
+    {
+      "id": "1234567845678",
+      "login": "1234567845678",
+      "password": "1234567845678"
+    },
+    {
+      "id": "rfetgbnh",
+      "login": "rfetgbnh",
+      "password": "rfetgbnhrfetgbnh"
+    },
+    {
+      "id": "123456765432",
+      "login": "123456765432",
+      "password": "123456765432"
+    },
+    {
+      "id": "234565456567656y",
+      "login": "234565456567656y",
+      "password": "234565456567656y"
+    },
+    {
+      "id": "loginlogin",
+      "login": "loginlogin",
+      "password": "loginlogin"
+    },
+    {
+      "id": "Олег",
+      "login": "Олег",
+      "password": "ОлегОлег"
+    }
+  ],
+  "orders": [
+    {
+      "name": "loginlogin",
+      "purchase": [
+        {
+          "quantity": 7,
+          "id": "el1",
+          "category": "Mixers",
+          "name": "DJM-A9",
+          "price": 10180,
+          "img": "https://i.ibb.co/1JPQxCc/DJM-A9-cgi-top-pc.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 5,
+          "id": "el5",
+          "category": "Players",
+          "name": "CDJ-TOUR1",
+          "price": 9500,
+          "img": "https://i.ibb.co/zJjppHC/cdj-tour1-main.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 1,
+          "id": "el8",
+          "category": "Controllers",
+          "name": "DDJ-REV1",
+          "price": 1340,
+          "img": "https://i.ibb.co/7tPtCWC/ddj-rev1-prm-top-1792x1316-pc.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 6,
+          "id": "el7",
+          "category": "Controllers",
+          "name": "DDJ-FLX10",
+          "price": 1800,
+          "img": "https://i.ibb.co/k9md9D6/pc-cgi-top.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 1,
+          "id": "el17",
+          "category": "Speakers",
+          "name": "XPRS102",
+          "price": 2460,
+          "img": "https://i.ibb.co/n3mpcWn/XPRS2-F10-angle-221124.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 1,
+          "id": "el18",
+          "category": "Speakers",
+          "name": "XPRS1152S",
+          "price": 5240,
+          "img": "https://i.ibb.co/kDBmw6Q/XPRS2-S15-angle-221124b.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 1,
+          "id": "el16",
+          "category": "Speakers",
+          "name": "VM-80",
+          "price": 1080,
+          "img": "https://i.ibb.co/6mvN3Zt/vm-80-prm-angle-pc.png",
+          "disabled": "false"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Олег",
+      "purchase": [
+        {
+          "quantity": 3,
+          "id": "el2",
+          "category": "Mixers",
+          "name": "DJM-TOUR1",
+          "price": 9600,
+          "img": "https://i.ibb.co/vsdwM3f/djm-tour1-main.png",
+          "disabled": "false"
+        },
+        {
+          "quantity": 4,
+          "id": "el3",
+          "category": "Mixers",
+          "name": "DJM-S9",
+          "price": 5400,
+          "img": "https://i.ibb.co/chDbb0S/djm-s9-main.png",
+          "disabled": "false"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
